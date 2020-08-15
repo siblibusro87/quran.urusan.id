@@ -2,9 +2,6 @@
   <div class="m-10">
     <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
       <Cards title="Menkaji" description="Membaca arti Al-Qur'an lebih mudah dengan pembagian topik bacaan dan tafsirnya." button-text="Mulai Menkaji" button-link="tadarus" />
-      <Cards title="Mempelajari" description="Memahami perbedaan pengucapan antar huruf dan panjang pendek antar kata secara interaktif." button-text="Mulai Belajar (Coming Soon)" button-link="belajar" />
-      <Cards title="Murottal" description="Rekam dan dengarkan bacaan murottal Al-Qur'an dari suara Anda sendiri." button-text="Mulai Murottal (Coming Soon)" button-link="murottal" />
-      <Cards title="Saling Belajar" description="Bagikan bacaan Murrotalmu kepada yang lebih memahami agar dapat saling belajar dan memperbaiki" button-text="Mulai Berbagi (Coming Soon)" button-link="berbagi" />
     </div>
   </div>
 </template>
